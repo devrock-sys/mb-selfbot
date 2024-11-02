@@ -20,11 +20,11 @@
 ## 4. Clone the Project
 - Use **Git** to download your project. Run the following command:
   ```bash
-  git clone <your-repository-url>
+  git clone https://github.com/devrock-sys/mb-selfbot.git
   ```
 - After cloning, go to the project directory:
   ```bash
-  cd <your-project-folder>
+  cd https://github.com/devrock-sys/mb-selfbot.git
   ```
 
 ## 5. Edit the `config.js` file
